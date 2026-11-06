@@ -8,6 +8,12 @@ These lets you extend the capabilities of your MCP enabled LLM (Large Language M
 These also work in MCP enabled LLM applications, like Claude Desktop. You can find other clients on
 [Awesome MCP Clients](https://github.com/punkpeye/awesome-mcp-clients) page.
 
+
+> [!IMPORTANT]
+> This repository contains **demos and examples** for the [Quarkus MCP Server](https://github.com/quarkiverse/quarkus-mcp-server) extension.
+> They show features and usage patterns, and they are **not production-ready**. They are not maintained with the same guarantees as the extension itself, and they may change or be removed at any time.
+> Use them as a starting point for learning, not as a base for production applications.
+
 ## Running the servers
 
 All of these servers are available to run with [jbang everywhere](https://jbang.dev/everywhere): Java, JavaScript, Python and more. Where it says `jbang` it can be replaced with `npx @jbangdev/jbang` or `uvx jbang` or `pipx jbang` dependent on your preference.
